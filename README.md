@@ -108,17 +108,37 @@ An AI-powered smart helmet detection and bike ignition system designed to improv
 
 ---
 
-### 🌐 Atom-Sphere
+### 🩺 Multiple Disease Prediction System
 
-**HTML • Web Development**
+**Python • Flask • Machine Learning • Scikit-learn**
 
-A web development project focused on building an interactive web experience.
+An AI/ML-based web application designed to predict multiple diseases using machine learning models and patient health information.
 
-- 🌐 Web-based application.
-- 🎨 Frontend development.
-- 💻 User interface implementation.
+- 🧠 Predicts multiple diseases using machine learning.
+- 🩺 Diabetes, Heart Disease, Parkinson's Disease, Lung Cancer, and Kidney Disease prediction.
+- 📊 Data collection and preprocessing.
+- 🤖 Machine learning model training.
+- 🌐 Flask-based web application.
+- 🎨 User-friendly interface for health predictions.
 
-🔗 **[View Project](https://github.com/pranithreddy0708/Atom-Sphere)**
+🔗 **[View Project](https://github.com/pranithreddy0708/Multiple_Disease_Prediction_System)**
+
+---
+
+### 🤖 AI Resume Analyzer
+
+**Python • Flask • NLP • Machine Learning**
+
+An AI-powered resume analysis platform designed to evaluate resumes and identify how well candidates match job requirements.
+
+- 📄 Extracts relevant information and skills from resumes.
+- 🎯 Compares candidate skills with job descriptions.
+- 📊 Analyzes resume content.
+- 🧠 Uses NLP techniques for resume analysis.
+- 💡 Provides suggestions for resume improvement.
+- ⚙️ Python and Flask-based backend.
+
+🔗 **[View Project](https://github.com/pranithreddy0708/AI-RESUME-ANALYZER)**
 
 ---
 
@@ -133,35 +153,6 @@ A Python-based weather forecasting application designed to provide weather-relat
 - 💻 Python application development.
 
 🔗 **[View Project](https://github.com/pranithreddy0708/Weather_Forecast_App)**
-
----
-
-### 🧠 CNN Classification
-
-**Python • Deep Learning • Convolutional Neural Networks**
-
-A deep-learning project focused on image classification using Convolutional Neural Networks.
-
-- 🧠 CNN-based image classification.
-- 📊 Dataset exploration.
-- 🤖 Deep-learning model implementation.
-- 📈 Image classification experiments.
-
-🔗 **[View Project](https://github.com/pranithreddy0708/CNN_Classification)**
-
----
-
-### 🧮 Tkinter Calculator
-
-**Python • Tkinter**
-
-A simple calculator application developed using Python's Tkinter GUI framework.
-
-- ➕ Basic arithmetic operations.
-- 🎨 Graphical user interface.
-- 🐍 Python-based application.
-
-🔗 **[View Project](https://github.com/pranithreddy0708/Tkinter_Calculator)**
 
 ---
 
