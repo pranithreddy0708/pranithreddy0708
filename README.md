@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Praneeth%20Reddy&fontColor=ffffff&fontSize=48&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Pranith%20Reddy&fontColor=ffffff&fontSize=48&animation=fadeIn" />
 </p>
 
 <h2 align="center">Aspiring Software Engineer | Python Developer | AI/ML Enthusiast</h2>
